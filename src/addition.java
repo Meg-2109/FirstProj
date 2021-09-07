@@ -18,7 +18,7 @@ public class addition {
         return c;
     }
 
-    @Ignore("")
+  
     @Test
     public void Test1()
     {
